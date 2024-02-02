@@ -14,7 +14,7 @@ For more detail, please visit:
 
 > [Angular 17 Multiple Images upload with Preview example](https://www.bezkoder.com/angular-17-multiple-image-upload-preview/)
 
-> [Angular Material 16 Image upload with Preview example](https://www.bezkoder.com/angular-material-16-image-upload-preview/)
+> [Angular Material 17 Image upload with Preview example](https://www.bezkoder.com/angular-material-17-image-upload-preview/)
 
 ## Run
 Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
@@ -50,7 +50,7 @@ Fullstack with Node:
 
 > [Angular 16 + Node Express: File upload example](https://www.bezkoder.com/angular-16-node-express-file-upload/)
 
-> [Angular 16 + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-16-jwt-auth/)
+> [Angular 17 + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-17-jwt-auth/)
 
 Fullstack with Spring Boot:
 > [Angular 16 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-16-crud/)
@@ -63,7 +63,7 @@ Fullstack with Spring Boot:
 
 > [Angular 16 + Spring Boot: File upload example](https://www.bezkoder.com/angular-16-spring-boot-file-upload/)
 
-> [Angular 16 + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-16-spring-boot-jwt-auth/)
+> [Angular 17 + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-17-spring-boot-jwt-auth/)
 
 Fullstack with Django:
 > [Angular + Django example](https://www.bezkoder.com/django-angular-13-crud-rest-framework/)
